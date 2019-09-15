@@ -1,0 +1,7 @@
+target/
+out/
+.idea/
+.DS_Store
+lib_managed/
+global.sbt
+project/build.properties
